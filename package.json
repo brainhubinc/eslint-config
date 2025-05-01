@@ -1,14 +1,14 @@
 {
-  "name": "eslint-config-lessmess",
+  "name": "eslint-config-brainhub",
   "version": "0.0.1",
-  "description": "ESLint config for Lessmess projects",
+  "description": "ESLint config for BrainHub projects",
   "main": "index.js",
   "scripts": {
     "lint": "eslint *.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lm-a/eslint-config.git"
+    "url": "git+ssh://git@github.com/brainhubinc/eslint-config.git"
   },
   "keywords": [
     "eslint",
@@ -17,9 +17,9 @@
   "author": "Ilya Lesik <ilialesik@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lm-a/eslint-config/issues"
+    "url": "https://github.com/brainhubinc/eslint-config/issues"
   },
-  "homepage": "https://github.com/lm-a/eslint-config#readme",
+  "homepage": "https://github.com/brainhubinc/eslint-config#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-standard": "^12.0.0",
