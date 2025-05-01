@@ -20,7 +20,7 @@ Modify your .eslintrc:
 
 ```json
 {
-  "extends": "brainhub/lib"
+  "extends": "@brainhubinc/eslint-config/lib"
 }
 ```
 ### For React Hooks
@@ -33,7 +33,7 @@ Modify your .eslintrc:
 
 ```json
 {
-  "extends": "brainhub/react-hooks"
+  "extends": "@brainhubinc/eslint-config/react-hooks"
 }
 ```
 
